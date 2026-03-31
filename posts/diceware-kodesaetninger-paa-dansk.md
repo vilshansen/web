@@ -6,7 +6,7 @@
 
 # Diceware på dansk: Nemme og sikre kodeord
 
-Der findes kodeord, og så findes der kodesætninger. Et kodeord er typisk ét ord, nogle gange blandet med tal og specialtegn. Et eksempel på et kodeord kunne være `g4$F=x,7&a%CJDsx`. En kodesætning er flere ord, ofte uden tal og specialtegn, men med mellemrum til at adskille de enkelte ord. Et eksempel på en kodesætning kunne være Til en god bøf hører en god Chianti.
+Der findes kodeord, og så findes der kodesætninger. Et kodeord er typisk ét ord, nogle gange blandet med tal og specialtegn. Et eksempel på et kodeord kunne være `g4$F=x,7&a%CJDsx`. En kodesætning er flere ord, ofte uden tal og specialtegn, men med mellemrum til at adskille de enkelte ord. Et eksempel på en kodesætning kunne være `Til en god bøf hører en god Chianti`.
 
 Korrekt konstrueret (og hvordan dettes gøres, kommer vi tilbage til nedenfor) vil en kodesætning være mindst lige så stærk som et tilsvarende kodeord, men væsentligt nemmere at huske end et kodeord af tilsvarende styrke. Netop denne forskel er det væsentligste argument for at anvende kodesætninger frem for kodeord i alle tilfælde, hvor det kan lade sig gøre og giver mening.
 
@@ -33,7 +33,7 @@ Terningkasteren på random.org har her kastet fem terninger. Dette kast med vær
 
 Ordet `angå` er nummer 15613 i den danske Diceware-ordliste.
 
-![Random.org viser tre ord.](img/diceware-tre-ord.png)
+![Random.org viser tre ord.](../img/diceware-tre-ord.png)
 
 Med ordlisten og terningkasteren fra random.org i hånden var det ingen sag at generere en Diceware-kodesætning på dansk i ét hug.
 
