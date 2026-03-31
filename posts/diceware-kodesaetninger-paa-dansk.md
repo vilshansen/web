@@ -17,7 +17,7 @@ En relativt kendt metodik er kendt som [Diceware](http://world.std.com/~reinhold
   1. Fem terninger (dog kan man nøjes med en, men det er nemmere med fem)
   2. En Diceware-ordliste. Dette er en liste med ord, hvor der ud for hvert ord står et tal, der kan repræsenteres med terning-værdier. Så det første ord har nummer 11111, det næste har nummer 11112, ..., 11116, 11121, 11122, ..., 66666. I alt 65 = 7776 forskellige ord.
 
-![Et udsnit af en Diceware-ordliste med danske ord.](img/diceware-udsnit.png)
+![Et udsnit af en Diceware-ordliste med danske ord.](../img/diceware-udsnit.png)
 
 Ideen er nu, at man slår et slag med sine fem terninger, aflæser øjnene, fx 1-4-2-5-4, og finder det tilsvarende ord i listen. Dette gør man et antal gange, helst fem eller flere, hvilket resulterer i den færdige kodesætning, eksempelvis `bugner hustru aflyst nypris sektor`.
 
