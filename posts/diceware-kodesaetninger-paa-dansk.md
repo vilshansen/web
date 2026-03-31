@@ -27,7 +27,7 @@ Efter nogen søgen på nettet, fandt jeg [en dansk Diceware-ordliste](https://gi
 
 Jeg havde ikke lige fem terninger ved hånden, men heldigvis har [random.org](https://random.org) (som specialiserer sig i, ja endda sælger, ægte tilfældigt genererede bits via deres website) en terningkaster, der kan simulere kast med fem terninger.
 
-![Terningkasteren på random.org har her kastet fem terninger.](img/diceware-random-org.png)
+![Terningkasteren på random.org har her kastet fem terninger.](../img/diceware-random-org.png)
 
 Terningkasteren på random.org har her kastet fem terninger. Dette kast med værdierne 1-5-6-1-3 vil resultere i ordet angå:
 
